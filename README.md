@@ -3,7 +3,7 @@
 
 ## 💫 About Me:
 
-<br>- 🌱 I’m currently learning **all about Data Science Universe.**<br><br><br>- 💬 Ask me about **Python, R, SQL, AWS, Docker, Tensorflow, Web Dev**<br><br><br>- 📫 How to reach me **ismail.jabri@usmba.ac.ma**<br><br><br>- 📄 Know about my experiences : <br> [English Version : Ismail-JABRI-Resume](https://bit.ly/3Ewnpm7) <br> [French Version : Ismail-JABRI-CV](https://bit.ly/3ESsl68)<br><br><br>- ⚡ Fun fact **Data is like people – interrogate it hard enough and it will tell you whatever you want to hear.**
+<br>- 🌱 I’m currently learning **all about Data Science Universe.**<br><br><br>- 💬 Ask me about **Python, R, SQL, AWS, Docker, Tensorflow, Web Dev**<br><br><br>- 📫 How to reach me **ismail.jabri@usmba.ac.ma**<br><br><br>- 📄 Know about my experiences : <!--<br> [English Version : Ismail-JABRI-Resume](https://bit.ly/3Ewnpm7) <br> [French Version : Ismail-JABRI-CV](https://bit.ly/3ESsl68)<br><br><br>- ⚡ Fun fact **Data is like people – interrogate it hard enough and it will tell you whatever you want to hear.** -->
 
 
 ## 🌐 Socials:
