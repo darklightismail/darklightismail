@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ismail Jabri</h1>
-<h3 align="center">✔️ An ambitious data scientist who likes to reside at the intersection of Artificial Intelligence and Psychology. ✨ Passionate about using data to help people and companies make better decisions.</h3>
+<h3 align="center">✔️ An ambitious data Engineer. ✨ Passionate about using data to help people and companies make better decisions.</h3>
 
 ## 💫 About Me:
 
-<br>- 🌱 I’m currently learning **all about Data Science Universe.**<br><br><br>- 💬 Ask me about **Python, R, SQL, AWS, Docker, Tensorflow, Web Dev**<br><br><br>- 📫 How to reach me **ismail.jabri@usmba.ac.ma**<br><br><br> <!--📄 Know about my experiences :--> <br><br>- ⚡ Fun fact **Data is like people – interrogate it hard enough and it will tell you whatever you want to hear.** -->
+<br>- 🌱 I’m currently learning **all about Data Engineering Universe.**<br><br><br>- 💬 Ask me about **Python, R, SQL, AWS, Docker, ETL, Web Dev**<br><br><br>- 📫 How to reach me **ismail.jabri@usmba.ac.ma**<br><br><br> <!--📄 Know about my experiences :--> <br><br>- ⚡ Fun fact **Data is like people – interrogate it hard enough and it will tell you whatever you want to hear.** -->
 
 
 ## 🌐 Socials:
